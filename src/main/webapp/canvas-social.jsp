@@ -4,7 +4,7 @@
     <head>
 		<c:if test="${sendRedirect}">
 			<script type="text/javascript">
-				top.location.href='https://www.facebook.com/dialog/oauth?client_id=135651429859631&redirect_uri=http://apps.facebook.com/jscanvastest/&scope=email,user_checkins,friends_checkins'
+				top.location.href='https://www.facebook.com/dialog/oauth?client_id=244853175563795&redirect_uri=http://apps.facebook.com/jssimpledemo/&scope=email,user_checkins,friends_checkins'
 			</script>
 		</c:if>
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
